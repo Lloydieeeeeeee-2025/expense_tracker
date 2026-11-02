@@ -1,5 +1,4 @@
 streamlit
 pandas
-sql
-load_dotenv
-os
+databricks-sql-connector
+python-dotenv
